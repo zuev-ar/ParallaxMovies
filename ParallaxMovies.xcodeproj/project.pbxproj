@@ -11,6 +11,7 @@
 		D7D093C22751418900946E21 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D093C12751418900946E21 /* ContentView.swift */; };
 		D7D093C42751418B00946E21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D093C32751418B00946E21 /* Assets.xcassets */; };
 		D7D093C72751418B00946E21 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7D093C62751418B00946E21 /* Preview Assets.xcassets */; };
+		D7D093CE275145D500946E21 /* MovieItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7D093CD275145D500946E21 /* MovieItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D7D093C12751418900946E21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D7D093C32751418B00946E21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7D093C62751418B00946E21 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D7D093CD275145D500946E21 /* MovieItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D7D093BF2751418900946E21 /* ParallaxMoviesApp.swift */,
 				D7D093C12751418900946E21 /* ContentView.swift */,
+				D7D093CD275145D500946E21 /* MovieItem.swift */,
 				D7D093C32751418B00946E21 /* Assets.xcassets */,
 				D7D093C52751418B00946E21 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7D093CE275145D500946E21 /* MovieItem.swift in Sources */,
 				D7D093C22751418900946E21 /* ContentView.swift in Sources */,
 				D7D093C02751418900946E21 /* ParallaxMoviesApp.swift in Sources */,
 			);
